@@ -1,7 +1,6 @@
 # Hostel_trade_hub
 
 
-# Hostel Trade Hub
 
 Hostel Trade Hub is a mobile application aimed at helping hostel students buy, sell, and donate items within their college or hostel community. The platform creates a safe, local marketplace that saves time, cuts costs, and encourages reuse among students.
 
